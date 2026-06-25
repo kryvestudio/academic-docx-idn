@@ -48,7 +48,10 @@ Dependencies akan otomatis terinstall saat Anda menjalankan perintah install:
 git clone https://github.com/kryvestudio/academic-docx-idn.git
 cd docx-idn
 
-# Install (termasuk dependencies otomatis)
+# Install (hanya python-docx)
+pip install -e .
+
+# Atau termasuk dev dependencies (pytest untuk testing)
 pip install -e ".[dev]"
 ```
 
