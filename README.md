@@ -1,6 +1,12 @@
 # docx-idn 🇮🇩
 
-Python library to automatically generate and format Indonesian academic documents (makalah, laporan, KTI, skripsi) following strict institutional standards.
+[![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![PyPI](https://img.shields.io/pypi/v/docx-idn.svg)](https://pypi.org/project/docx-idn/)
+[![GitHub issues](https://img.shields.io/github/issues/kryvestudio/academic-docx-idn.svg)](https://github.com/kryvestudio/academic-docx-idn/issues)
+[![GitHub stars](https://img.shields.io/github/stars/kryvestudio/academic-docx-idn.svg)](https://github.com/kryvestudio/academic-docx-idn/stargazers)
+
+Python library untuk generate dokumen akademik Indonesia (makalah, laporan, KTI, skripsi) dengan format standar institusi.
 
 ## ⚠️ DISCLAIMER
 
