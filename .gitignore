@@ -42,6 +42,5 @@ Thumbs.db
 .coverage
 htmlcov/
 
-# Generated files (optional - uncomment if you don't want to track these)
-# *.docx
-# test_indent_new.docx
+# Generated DOCX files
+*.docx
