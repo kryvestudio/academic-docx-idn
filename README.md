@@ -45,7 +45,7 @@ Dependencies akan otomatis terinstall saat Anda menjalankan perintah install:
 
 ```bash
 # Clone repository
-git clone https://github.com/username/docx-idn.git
+git clone https://github.com/kryvestudio/academic-docx-idn.git
 cd docx-idn
 
 # Install (termasuk dependencies otomatis)
