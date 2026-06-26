@@ -8,7 +8,7 @@ Terima kasih telah tertarik untuk berkontribusi! 🎉
 
 ```bash
 # Fork melalui GitHub, lalu clone
-git clone https://github.com/YOUR_USERNAME/academic-docx-idn.git
+git clone https://github.com/kryvestudio/academic-docx-idn.git
 cd academic-docx-idn
 ```
 
